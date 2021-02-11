@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 // teht1 - led ja nappi
 
 // constants won't change. They're used here to set pin numbers:

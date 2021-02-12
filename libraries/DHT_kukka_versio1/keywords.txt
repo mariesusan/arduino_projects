@@ -1,0 +1,4 @@
+DHT_kukka	KEYWORD1
+kaynnista	KEYWORD2
+lampotila	KEYWORD2
+kosteus		KEYWORD2
